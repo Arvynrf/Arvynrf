@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi there 👋, I'm Arvyn!
+
+currently student majoring in Computer Science at [Bina Nusantara University](https://binus.ac.id/) Bandung.
+
+### About me!
+- 👀 I am interested in web development and cyber security.
+- 😁 I have learned several programming languages such as C, C++, Java, Python, HTML and CSS.
+
+### Experience
+I currently have no other experience apart from working on projects in college.
+i also  posted a college project here, while it's was still in this repository, feel free too look about it!
+
+### Anyway, thank you for stopping by!
+- ✉️ the best way to reach me is via email : arvyn.rezkyfahrezy@gmail.com
+
 
 <!--
 **Arvynrf/Arvynrf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
