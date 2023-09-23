@@ -12,7 +12,7 @@ i also  posted a college project here, while it's was still in this repository, 
 
 **Let's connect!**
 - ✉️ the best way to reach me is via :
-  - email : arvyn.rezkyfahrezy@gmail.com
+  - arvyn.rezkyfahrezy@gmail.com
   - [Linkedin](https://www.linkedin.com/in/arvyn-rezky-fahrezy/)
   - [Instagram](https://www.instagram.com/arvyzf/)
 
