@@ -13,7 +13,7 @@ i also  posted a college project here, while it's was still in this repository, 
 **Anyway, thank you for stopping by!**
 - ✉️ the best way to reach me is via :
   - email : arvyn.rezkyfahrezy@gmail.com
-[<img alt="alt_text" widht="10px" src="https://github.com/Arvynrf/Arvynrf/assets/89084302/472b0a0c-51c8-4ecc-8002-fa452969904a" />](https://www.linkedin.com/in/arvyn-rezky-fahrezy/)
+[<img alt="alt_text" widht="4px" src="https://github.com/Arvynrf/Arvynrf/assets/89084302/472b0a0c-51c8-4ecc-8002-fa452969904a" />](https://www.linkedin.com/in/arvyn-rezky-fahrezy/)
 
 
 
