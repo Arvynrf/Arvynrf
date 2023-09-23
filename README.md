@@ -2,15 +2,15 @@
 
 currently student majoring in Computer Science at [Bina Nusantara University](https://binus.ac.id/) Bandung.
 
-### About me!
+## About me!
 - 👀 I am interested in web development and cyber security.
 - 😁 I have learned several programming languages such as C, C++, Java, Python, HTML and CSS.
 
-### Experience
+## Experience
 I currently have no other experience apart from working on projects in college.
 i also  posted a college project here, while it's was still in this repository, feel free too look about it!
 
-### Anyway, thank you for stopping by!
+## Anyway, thank you for stopping by!
 - ✉️ the best way to reach me is via email : arvyn.rezkyfahrezy@gmail.com
 
 
