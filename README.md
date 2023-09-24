@@ -8,7 +8,7 @@ currently student majoring in Computer Science at [Bina Nusantara University](ht
 
 **Experience** <br/>
 I currently have no other experience apart from working on projects in college. <br/>
-i also  posted a college project here, while it's was still in this repository, feel free too look about it!
+I also  posted a college project here, while it's was still in this repository, feel free too look about it!
 
 **Let's connect!** <br/>
 ✉️ the best way to reach me is via :
