@@ -12,7 +12,7 @@ I also  posted a college project here, while it's was still in this repository, 
 
 **Tools** <br/>
 <a><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="figma" width="40" height="40"/></a>
-<a><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="figma" width="40" height="40"/></a>
+<a><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="figma" width="40" height="40"/></a>
 
 **Programming Language** <br/>
 <a><img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="figma" width="40" height="40"/></a>
