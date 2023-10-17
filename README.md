@@ -21,7 +21,6 @@ I also  posted a college project here, while it's was still in this repository, 
 <a href="https://github.com/Arvynrf"><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="figma" width="40" height="40"/></a>
 
 **Let's connect!** <br/>
-✉️ the best way to reach me is via :<br/>
 <a href="mailto:arvyn.rezkyfahrezy@gmail.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.linkedin.com/in/arvyn-rezky-fahrezy/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.instagram.com/arvyzf/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="figma" width="40" height="40"/> </a>
