@@ -12,8 +12,8 @@ I also  posted a college project here, while it's was still in this repository, 
 
 **Let's connect!** <br/>
 ✉️ the best way to reach me is via :
+<a href="https://www.linkedin.com/in/arvyn-rezky-fahrezy/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="figma" width="40" height="40"/> </a>
   - arvyn.rezkyfahrezy@gmail.com
-  - [Linkedin](https://www.linkedin.com/in/arvyn-rezky-fahrezy/)(https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg)
   - [Instagram](https://www.instagram.com/arvyzf/)
 
 
