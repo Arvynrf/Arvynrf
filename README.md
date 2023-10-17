@@ -10,25 +10,21 @@ currently student majoring in Computer Science at [Bina Nusantara University](ht
 I currently have no other experience apart from working on projects in college. <br/>
 I also  posted a college project here, while it's was still in this repository, feel free too look about it!
 
-**Experience** <br/>
-![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
-![mysql](https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg)
+**Tools** <br/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="figma" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="figma" width="40" height="40"/>
 
 **Programming Language** <br/>
-![java](https://www.vectorlogo.zone/logos/java/java-vertical.svg)
-![c++](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
-![python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
-![php](https://www.vectorlogo.zone/logos/php/php-icon.svg)
-
-
-
+<img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="figma" width="40" height="40"/>
+<img src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" alt="figma" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="figma" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="figma" width="40" height="40"/>
 
 **Let's connect!** <br/>
 ✉️ the best way to reach me is via :<br/>
 <a href="mailto:arvyn.rezkyfahrezy@gmail.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.linkedin.com/in/arvyn-rezky-fahrezy/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.instagram.com/arvyzf/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="figma" width="40" height="40"/> </a>
-
 
 
 
