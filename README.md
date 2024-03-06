@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Arvyn!
 
 currently student majoring in Computer Science at [Bina Nusantara University](https://binus.ac.id/) Bandung.
+Right Now, I am also doing an internship as DevOps Engineer
 
 **About me!**
 - 👀 I am interested in web development specially back-end and cyber security.
