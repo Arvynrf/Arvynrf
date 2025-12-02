@@ -9,17 +9,20 @@ Cloud enthusiast with growing interest in DevOps, system automation, and cyberse
 - 😁 My go-to programming languages are C, C++, Java, Python, and PHP.
 
 **Experience** <br/>
-Internship as DevOps Engineer — involved in CI/CD workflows, automated deployments, and cloud-based environments. <br/>
-Various academic projects covering software engineering, backend development, and system programming.
-Some of these projects are showcased here, feel free to explore!
+- Internship as DevOps Engineer — involved in CI/CD workflows, automated deployments, and cloud-based environments. <br/>
+- Various academic projects covering software engineering, backend development, and system programming.
+- Some of these projects are showcased here, feel free to explore!
 
 **Tools** <br/>
 <a href="https://github.com/Arvynrf"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="figma" width="40" height="40"/></a>
 <a href="https://github.com/Arvynrf"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="figma" width="40" height="40"/></a>
+<a href="https://github.com/Arvynrf"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/></a>
+<a href="https://github.com/Arvynrf"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40"/></a>
+<a href="https://github.com/Arvynrf"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/></a>
+<a href="https://github.com/Arvynrf"><img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" width="40" height="40"/></a>
 
 **Programming Language** <br/>
 <a href="https://github.com/Arvynrf"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="figma" width="40" height="40"/></a>
-<a href="https://github.com/Arvynrf"><img src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" alt="figma" width="40" height="40"/></a>
 <a href="https://github.com/Arvynrf"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="figma" width="40" height="40"/></a>
 <a href="https://github.com/Arvynrf"><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="figma" width="40" height="40"/></a>
 
