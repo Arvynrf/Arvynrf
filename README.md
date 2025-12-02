@@ -1,15 +1,17 @@
 ### Hi there 👋, I'm Arvyn!
 
-currently student majoring in Computer Science at [Bina Nusantara University](https://binus.ac.id/) Bandung.
-Right Now, I am also doing an internship as DevOps Engineer
+Fresh graduate in Computer Science at [Bina Nusantara University](https://binus.ac.id/) Bandung.
+Cloud enthusiast with growing interest in DevOps, system automation, and cybersecurity.
 
 **About me!**
-- 👀 I am interested in web development specially back-end and cyber security.
-- 😁 I have learned several programming languages such as C, C++, Java, Python, PHP.
+- 💕 Passionate about cloud computing and modern infrastructure.
+- 👀 Interested in DevOps, system automation, and cybersecurity fundamentals.
+- 😁 My go-to programming languages are C, C++, Java, Python, and PHP.
 
 **Experience** <br/>
-I currently have no other experience apart from working on projects in college. <br/>
-I also  posted a college project here, while it's was still in this repository, feel free too look about it!
+Internship as DevOps Engineer — involved in CI/CD workflows, automated deployments, and cloud-based environments. <br/>
+Various academic projects covering software engineering, backend development, and system programming.
+Some of these projects are showcased here, feel free to explore!
 
 **Tools** <br/>
 <a href="https://github.com/Arvynrf"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="figma" width="40" height="40"/></a>
